@@ -24,5 +24,5 @@ Two additional queries that would be beneficial to our analysis are:
 * Secondly, a query on other metrics such as Wind speeds, tourist numbers in Hawaii can be made. It would be unwise to base the entire business decision on temperature alone.
 
 ## Links
-  * Visit this [link](https://github.com/tanzimamin2/Pewlett-Hackard-Analysis) for other resources.
+  * Visit this [link](https://github.com/tanzimamin2/Surfs_up) for other resources.
    
